@@ -1,0 +1,95 @@
+
+body {
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.cuadro_numeros{
+
+    position: absolute;
+    top: 5%;
+    left: 112%;
+}
+
+.contenidor{
+
+    background-image: url("../img/fondo.jpg");
+    height: 55vh
+    
+}
+
+
+.botoncito{
+
+    font-size:20px;
+}
+
+.botoncito:hover{
+
+    background-color: darkgrey;
+    color: white;
+}
+
+.panel{
+
+    width: 35%;
+    
+}
+
+.labels{
+
+    font-family: 'Roboto Condensed';
+    font-size:18px;
+    
+}
+
+.asteriscos{
+
+    background-image: url("../img/asterisco.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.puntos{
+
+    background-image: url("../img/punto.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imagen{
+
+    margin: 20px;
+    border: 1px solid black;
+    position: absolute;
+    top: 10px;
+ 
+    
+}
+
+
+@media screen and (max-width: 1000px) {
+    input[type=text], input[type=button]{
+
+        width:65%;
+        
+    }
+
+
+  }
+
+a{
+
+    margin:4px;
+}
+
+

@@ -1,0 +1,39 @@
+.contenidor{
+
+    background-image: url("../img/fondo.jpg");
+}
+
+input[type=text]{
+
+    border:0;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+    outline: none;
+    
+}
+
+select{
+    background-color: transparent;
+}
+
+.div_filtro{
+
+    justify-content: left;
+    display: flex;
+    margin-left: 25px;
+}
+
+
+
+.imagen{
+
+    
+    margin: 40px;
+    border: 1px solid black;
+
+    
+}
+
+
+
+   

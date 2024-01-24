@@ -1,0 +1,143 @@
+
+@font-face{
+
+    font-family:'Dancing Script';
+    src: url(./DancingScript-VariableFont_wght.ttf);
+    
+    
+    
+    }
+
+
+    
+
+.fondo{
+
+    background-image: url("../imgc/image_ppl.jpg");
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 55vh;
+    transition: 0.5s;
+    object-fit: cover;   
+}
+
+
+.fondot{
+
+    background-image: url("../imgc/image_ppli.jpg");
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 8vh;
+    transition: 0.5s;
+    object-fit: cover;
+
+    
+    
+    
+}
+
+.fondot:hover {
+    transform: scale(1.4);
+}
+
+.portada{
+    
+    overflow: hidden;
+    background-color: black;
+
+
+}
+
+
+.portada2{
+    
+    overflow: hidden;
+    
+
+
+}
+
+
+
+
+body{
+
+    background-color:dimgray ;
+}
+
+
+.labels{
+
+    font-family: 'Roboto Condensed';
+    font-size:18px;
+    
+}
+
+
+
+.footer{
+
+    height: 8vh;
+    width: 1400px;
+}
+
+.textfoot{
+
+    font-family: 'Dancing Script';
+    font-size:18px;
+    
+}
+
+.secciones{
+
+    font-family: 'Dancing Script';
+    font-size:24px;
+    
+}
+
+
+.secciones a{
+
+    color:white;
+    text-decoration: none;
+    
+}
+
+.secciones a:hover{
+
+color: grey;
+font-weight: bold;
+text-decoration: none;
+border: 2px solid grey;
+border-radius: 8px;
+padding: 14px;
+background-color: white;
+
+
+}
+
+.icosf{
+    width:35px;
+    height: 35px;
+
+}
+
+
+
+@media screen and (max-width: 1200px) {
+    
+.secciones a{
+
+
+    font-size: 18px;
+}
+
+.titulo img {
+    width: 500px;
+    height: 150px;
+
+  }
+ 
+
+}
+

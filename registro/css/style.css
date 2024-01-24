@@ -1,0 +1,46 @@
+
+
+
+.fondo2{
+   background-image: url("../img/comida_2.jpg");
+   background-color: transparent;
+   background-repeat: no-repeat;
+   height: 25vh;
+   width: 1080px;
+   
+
+}
+
+
+.contenidor{
+
+    background-image: url("../img/fondo.jpg");
+}
+
+
+
+.registro{
+
+    font-family: 'Roboto Condensed';
+
+}
+
+.form-control{ 
+                border: 0;
+                border-bottom: 1px solid black;
+                background-color: #F3F3F3;  }
+                
+.form-red{
+    border: 0;
+    border-bottom: 1px solid red;
+    background-color: #F3F3F3
+
+}
+.form-control:focus{
+    outline: none;
+    background-color: #CEC6C6;
+
+}
+
+
+

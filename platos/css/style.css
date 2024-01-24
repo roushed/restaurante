@@ -1,0 +1,59 @@
+.contenidor{
+
+    background-image: url("../img/fondo.jpg");
+    padding-bottom:130px;
+ 
+}
+
+.contenido{
+    top: 50px;
+    text-align: center;
+     
+      
+    
+}
+
+table{
+
+    margin: auto;
+    width: 70%;
+    margin-top:40px;
+
+
+}
+
+table th{
+
+    color:white;
+    background-color:#383737;
+    padding: 6px;
+}
+
+table td{
+
+    padding: 20px;
+}
+
+
+
+.menus{
+
+    margin-top: 20px;
+    
+}
+
+.menus .cuadro_m{
+
+    border: 2px solid black;
+    margin: 14px;
+    padding: 13px;
+    
+}
+
+
+.f_dancing{
+    font-family: 'Dancing Script';
+    font-weight: bold;
+    font-size: 20px;
+}  
+

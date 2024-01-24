@@ -1,0 +1,21 @@
+.contenidor{
+    
+    background-image: url("../img/fondo.jpg");
+}
+
+input[type=text]{
+
+    border:0;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+    outline: none;
+    
+}
+
+
+.imagen{
+
+    margin: 40px;
+    border: 1px solid black;
+    
+}

@@ -1,0 +1,12 @@
+.contenidor{
+
+    background-image: url("../img/fondo.jpg");
+    padding-bottom:130px;
+ 
+}
+
+.div_img img{
+
+    width: 380px;
+    height: 420px;
+}
