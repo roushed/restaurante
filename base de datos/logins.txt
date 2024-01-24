@@ -1,7 +1,10 @@
+Página principal:
+/indice/index.html
 
 Cliente:
 user: ana@gmail.com
 password: 123456
+
 Administrador:
 admin: admin@gmail.com
 password: 123456
